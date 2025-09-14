@@ -1,4 +1,4 @@
-﻿# RoundsTextAdventure — Escape the Dungeon
+﻿# RoundsTextAdventure — Escape the Island
 
 A text-based adventure game built in Unity.  
 Objective: **Escape the Island** by exploring, examining items, and solving a simple puzzle.
